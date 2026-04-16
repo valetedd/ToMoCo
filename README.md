@@ -1,4 +1,4 @@
-# To(pic) (Mo)delling (Co)mparison
+# (To)pic (Mo)delling (Co)mparison
 A project aimed at comparing the results of topic modelling tasks performed with various techniques:
 * Gensim implementation of LDA (Latent Dirichlet Aloocation). 
 * prodLDA: implemented.
